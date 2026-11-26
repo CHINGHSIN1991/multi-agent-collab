@@ -1,1 +1,4 @@
 /SPEC.md
+data/
+.env
+.aigile/
